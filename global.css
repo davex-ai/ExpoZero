@@ -1,0 +1,4 @@
+/* global.css — place in project root, NOT inside app/ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
